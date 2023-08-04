@@ -41,3 +41,15 @@ DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
+
+# custom domain
+DOMAIN-SUFFIX,faplord-my.sharepoint.com
+DOMAIN-SUFFIX,masuit.com
+DOMAIN-KEYWORD,dlkoo
+DOMAIN-KEYWORD,9damaogame
+DOMAIN-SUFFIX,fapcraft.cf
+DOMAIN-SUFFIX,fapcraft.eu.org
+DOMAIN-SUFFIX,fapcloud.eu.org
+DOMAIN-SUFFIX,keylol.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,cloudflarestorage.com
