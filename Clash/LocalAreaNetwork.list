@@ -43,16 +43,24 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # custom domain
-DOMAIN-SUFFIX,faplord-my.sharepoint.com
-DOMAIN-SUFFIX,masuit.com
-DOMAIN-KEYWORD,dlkoo
+#DOMAIN-SUFFIX,akamaized.net
+#DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,1.com
 DOMAIN-KEYWORD,9damaogame
-DOMAIN-SUFFIX,fapcraft.cf
-DOMAIN-SUFFIX,fapcraft.gay
-DOMAIN-SUFFIX,fapcloud.cf
-DOMAIN-SUFFIX,fapcraft.free.hr
-DOMAIN-SUFFIX,fapcloud.free.hr
-DOMAIN-SUFFIX,keylol.com
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cfghy666.com
+DOMAIN-KEYWORD,dlkoo
+DOMAIN-SUFFIX,fap.cloudns.org
+DOMAIN-SUFFIX,fapcloud.cf
+DOMAIN-SUFFIX,fapcloud.cloudns.org
+DOMAIN-SUFFIX,fapcloud.free.hr
+DOMAIN-SUFFIX,fapcraft.cloudns.org
+DOMAIN-SUFFIX,fapcraft.free.hr
+DOMAIN-SUFFIX,fapcraft.cf
+DOMAIN-SUFFIX,fapcraft.gq
+DOMAIN-SUFFIX,fapcraft.gay
+DOMAIN-SUFFIX,fapddns.eu.org
+DOMAIN-SUFFIX,faplord-my.sharepoint.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,keylol.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,masuit.com
