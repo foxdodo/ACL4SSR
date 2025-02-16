@@ -58,8 +58,11 @@ DOMAIN-SUFFIX,fapcraft.gq
 DOMAIN-SUFFIX,fapddns.eu.org
 DOMAIN-SUFFIX,faplord-my.sharepoint.com
 DOMAIN-SUFFIX,gitlab.com
+
 # bing img
 DOMAIN-SUFFIX,jasonzeng.dev
+
 DOMAIN-SUFFIX,keylol.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,masuit.com
+DOMAIN-SUFFIX,masuit.net
